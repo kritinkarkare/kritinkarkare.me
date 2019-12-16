@@ -1,5 +1,6 @@
++++
 widget = "portfolio"  # Use the Portfolio widget
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 
@@ -41,3 +42,4 @@ headless = true  # This file represents a page section.
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
++++
