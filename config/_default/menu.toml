@@ -23,7 +23,6 @@
   url = "writing/"  # Widget Page folder name.
   weight = 98  # Position of the link in the navigation bar.
   identifier = "data"
-  identifier = "science"
 
 [[main]]
   name = "Data"  # Title of the link.
