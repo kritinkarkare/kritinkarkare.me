@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I bring bioinformatics to beginners. San Diego based science journalist. Perky, hot chocolate loving, trans Thai+Indian American girl :) Likes Pokemon, Science communication and asking too many questions, not necessarily in that order. She/her/hers. 
+bio: I bring bioinformatics to beginners. San Diego based science journalist. Thai+Indian American girl :) Likes Pokemon, Science communication and asking too many questions, not necessarily in that order. 
 
 interests:
 - bioinformatics
-- making friends and talking about stuffz
+- 
 - hot chocolate, capri sun, and Hi-C fruit punch
 
 education:
@@ -61,18 +61,19 @@ user_groups:
 - Visitors
 ---
 
-Kritin is currently a staff research associate specializing in bioinformatics at the University of California, San Diego Biology Instructional Labs, helping set up lab classes with materials and operating the Illumina MiSeq DNA Sequencing machine. I graduated from UC San Diego in June 2019 with a Bachelors of Science in Bioengineering: Bioinformatics and two minors in Cognitive Science and Japanese Studies.
+Kritin is currently a staff research associate specializing in bioinformatics at the University of California, San Diego Biology Instructional Labs, helping set up undergrad lab classes with materials/solutions and operating the Illumina MiSeq DNA Sequencing machine. I graduated from UC San Diego in June 2019 with a Bachelors of Science in Bioengineering: Bioinformatics and two minors in Cognitive Science and Japanese Studies.
 
-Another thing about me! I'm a transgender girl, and proud of it! I'm slowly becoming more comfortable with coming out as the person I am and finding the right body for myself. I hope no one can take that from me, and I'll do the same for others! I'm also half Thai and half Indian, so my culture is also extremely important to me. I care a lot about representation for Southeast Asian countries, particularly Thai culture because it gets overshadowed.  
+I'm also half Thai and half Indian, so my culture is also extremely important to me. I care a lot about representation for Southeast Asian countries, particularly Thai culture because it gets overshadowed.  
 
-While the labels I choose for myself make me happy, they are also just labels - I am more than just a sum of my parts! I am also a freelance science writer and on the side I help develop science communication resources for undergrads at UCSD too. 
+I am also a freelance science writer and data journalist and on the side I help develop science communication resources for undergrads at UCSD too. I previously wrote for the UCSD Jacobs School of Engineering Communications team as an undergrad. I'm a member of the San Diego Science Writers Association. 
 
 Other things I've do/done:
- - run two half marathons (a third in January 2020). My fastest 5K is a 18:35 and my half is 1 hr and 51 min. 
+ - run three half marathons. My fastest 5K is a 18:35 and my half is 1 hr and 51 min. I like long distance running!
  - play violin, viola, and percussion in our anime/videogame orchestra at UC San Diego. 
  - arrange and conduct music for said orchestra. 
  - run and organize competitive Pokemon videogame tournaments
  - can say the alphabet backwards in less than two seconds
  - like hot chocolate, Capri-Sun, Hi-C Fruit Punch, and Nerds. 
- On my free days, you can find me photosynthesizing under the sun like the good plant I am. I want to become healthy and strong!
+ 
+On my free days, you can find me photosynthesizing under the sun like the good plant I am. I want to become healthy and strong!
 In the future, I'm interested in pursuing a Ph.D and then becoming a teaching professor. When I retire, I want to open up an astrobiology-themed cat cafe, with lots of plants. It'll be cool. 
