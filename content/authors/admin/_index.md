@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I bring bioinformatics to beginners. San Diego based science journalist. Thai+Indian American girl :) Likes Pokemon, Science communication and asking too many questions, not necessarily in that order. 
+bio: I bring bioinformatics to beginners. San Diego based, Thai-Indian American science journalist. Likes Pokemon, Science communication and asking too many questions, not necessarily in that order. 
 
 interests:
-- bioinformatics
-- 
+- bioinformatics + computational neuroscience
+- not getting to the games or books on my videogame backlog
 - hot chocolate, capri sun, and Hi-C fruit punch
 
 education:
