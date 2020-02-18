@@ -18,12 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I bring bioinformatics to beginners. I'm a transgender 0.5 Thai + 0.5 Indian girl who likes hot chocolate, Pokemon, science communication and asking too many questions. She/her/hers. 
+bio: I bring bioinformatics to beginners. San Diego based, Thai-Indian American science journalist. Likes Pokemon, Science communication and asking too many questions, not necessarily in that order. 
 
 interests:
-- pretending I'm cool
-- bioinformatics
-- making friends and talking about stuffz
+- bioinformatics + computational neuroscience
+- not getting to the games or books on my videogame backlog
 - hot chocolate, capri sun, and Hi-C fruit punch
 
 education:
@@ -62,6 +61,19 @@ user_groups:
 - Visitors
 ---
 
-Kritin Karkare found that she really liked hot chocolate at an early age and never gave it up. She is currently a staff research associate specializing in bioinformatics at the University of California, San Diego Biology Instructional Labs, helping set up lab classes with materials and operating the Illumina MiSeq DNA Sequencing machine. 
+Kritin is currently a staff research associate specializing in bioinformatics at the University of California, San Diego Biology Instructional Labs, helping set up undergrad lab classes with materials/solutions and operating the Illumina MiSeq DNA Sequencing machine. I graduated from UC San Diego in June 2019 with a Bachelors of Science in Bioengineering: Bioinformatics and two minors in Cognitive Science and Japanese Studies.
 
-She's also a transgender girl and uses she/her pronouns. She is half thai and half indian and extremely proud of it! She also does science writing on the side, along with developing science communication programs for undergrads. She's happy that she still gets to play in the Intermission Orchestra at UCSD and can conduct her favorite pieces! 
+I'm also half Thai and half Indian, so my culture is also extremely important to me. I care a lot about representation for Southeast Asian countries, particularly Thai culture because it gets overshadowed.  
+
+I am also a freelance science writer and data journalist and on the side I help develop science communication resources for undergrads at UCSD too. I previously wrote for the UCSD Jacobs School of Engineering Communications team as an undergrad. I'm a member of the San Diego Science Writers Association. 
+
+Other things I've do/done:
+ - run three half marathons. My fastest 5K is a 18:35 and my half is 1 hr and 51 min. I like long distance running!
+ - play violin, viola, and percussion in our anime/videogame orchestra at UC San Diego. 
+ - arrange and conduct music for said orchestra. 
+ - run and organize competitive Pokemon videogame tournaments
+ - can say the alphabet backwards in less than two seconds
+ - like hot chocolate, Capri-Sun, Hi-C Fruit Punch, and Nerds. 
+ 
+On my free days, you can find me photosynthesizing under the sun like the good plant I am. I want to become healthy and strong!
+In the future, I'm interested in pursuing a Ph.D and then becoming a teaching professor. When I retire, I want to open up an astrobiology-themed cat cafe, with lots of plants. It'll be cool. 
