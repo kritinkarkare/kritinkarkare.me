@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Blog"
-  url = "#post"
+  url = "post/"
   weight = 62
 
 [[main]]
@@ -22,13 +22,13 @@
   name = "Writing"  # Title of the link.
   url = "writing/"  # Widget Page folder name.
   weight = 98  # Position of the link in the navigation bar.
-  identifier = "Data"
+  identifier = "something"
 
 [[main]]
   name = "Data"  # Title of the link.
   url = "data/"  # Widget Page folder name.
   weight = 2  # Position of the link in the navigation bar.
-  parent = "Writing"
+  parent = "something"
 
 [[main]]
   name = "Projects"  # Title of the link.
@@ -39,7 +39,7 @@
   name = "Science"  # Title of the link.
   url = "science/"  # Widget Page folder name.
   weight = 7  # Position of the link in the navigation bar.
-  parent = "Writing"
+  parent = "something"
 
 [[main]]
   name = "About"  # Title of the link.
