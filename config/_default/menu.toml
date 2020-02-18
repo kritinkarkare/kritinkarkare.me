@@ -9,9 +9,9 @@
   weight = 10
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
+  name = "Blog"
+  url = "#posts"
+  weight = 60
 
 [[main]]
   name = "Contact"
@@ -22,7 +22,7 @@
   name = "Writing"  # Title of the link.
   url = "writing/"  # Widget Page folder name.
   weight = 98  # Position of the link in the navigation bar.
-  identifier = "data"
+  identifier = "Data"
 
 [[main]]
   name = "Data"  # Title of the link.
@@ -39,7 +39,7 @@
   name = "Science"  # Title of the link.
   url = "science/"  # Widget Page folder name.
   weight = 7  # Position of the link in the navigation bar.
-  parent = "writing"
+  parent = "Writing"
 
 [[main]]
   name = "About"  # Title of the link.
