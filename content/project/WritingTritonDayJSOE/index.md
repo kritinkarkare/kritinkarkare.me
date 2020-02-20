@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "WritingTritonDayJSOE"
+title: "Tritons get a Taste to Be"
 summary: "I write about welcoming admitted UCSD engineering students at Triton Day 2018."
 authors: []
 tags: ["UCSD Engineering"]

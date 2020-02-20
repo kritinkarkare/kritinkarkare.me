@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "WritingCOSMOSWeek1JSOE"
+title: "COSMOS Week 1"
 summary: "I write about my first week TAing for UC San Diego COSMOS."
 authors: []
 tags: ["Science", "UCSD Engineering"]
