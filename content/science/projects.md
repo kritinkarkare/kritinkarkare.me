@@ -28,6 +28,18 @@ subtitle = ""
   [[content.filter_button]]
      name = "UCSD Engineering"
      tag = "UCSD Engineering"
+    
+  [[content.filter_button]]
+     name = "Outreach"
+     tag = "Outreach"
+
+  [[content.filter_button]]
+     name = "UCSD Research"
+     tag = "UCSD Research"
+
+  [[content.filter_button]]
+     name = "Bioengineering"
+     tag = "Bioengineering"
   
   # [[content.filter_button]]
   #   name = "Other"
