@@ -42,6 +42,12 @@
   parent = "something"
 
 [[main]]
+  name = "Class"  # Title of the link.
+  url = "class/"  # Widget Page folder name.
+  weight = 12  # Position of the link in the navigation bar.
+  parent = "something"
+
+[[main]]
   name = "About"  # Title of the link.
   url = "about/"  # Widget Page folder name.
   weight = 56  # Position of the link in the navigation bar.
