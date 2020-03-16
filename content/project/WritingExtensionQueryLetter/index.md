@@ -4,7 +4,7 @@
 title: "UCSD Extension Query Letter Assignment"
 summary: "For my UCSD Extension Feature Writing class, I'm tasked to write a pitch for my feature story to a publication of my choosing."
 authors: []
-tags: ["UCSD Extension Feature"]
+tags: ["UCSD Extension"]
 categories: []
 date: 2020-03-14T22:57:45-07:00
 

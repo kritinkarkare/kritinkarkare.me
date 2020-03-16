@@ -4,7 +4,7 @@
 title: "UCSD Extension Progressive Feature Story Assignment #1"
 summary: "I write the lede for the progressive feature story on SARS and Covid-19."
 authors: []
-tags: ["UCSD Extension Feature"]
+tags: ["UCSD Extension"]
 categories: []
 date: 2020-03-14T22:57:34-07:00
 

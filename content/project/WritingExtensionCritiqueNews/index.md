@@ -4,7 +4,7 @@
 title: "UCSD Extension Critique of Classmate's News Story"
 summary: "I critique my classmate Monica's news story."
 authors: []
-tags: ["UCSD Extension News"]
+tags: ["UCSD Extension"]
 categories: []
 date: 2020-03-14T22:58:06-07:00
 

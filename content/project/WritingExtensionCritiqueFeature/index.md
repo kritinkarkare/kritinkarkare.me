@@ -4,7 +4,7 @@
 title: "UCSD Extension Critique of Classmate's Feature Story Lede"
 summary: "As part of my Extension class, I critiqued my classmate Monica's lede for her feature story on moms and Mother's Day."
 authors: []
-tags: ["UCSD Extension Feature"]
+tags: ["UCSD Extension"]
 categories: []
 date: 2020-03-14T22:58:10-07:00
 

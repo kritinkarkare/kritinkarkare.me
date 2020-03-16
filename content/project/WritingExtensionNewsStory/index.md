@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "WritingExtensionNewsStory"
-summary: ""
+title: "UCSD Extension News Story"
+summary: "For my UCSD Extension Class, I wrote about the kickoff Future of Biology seminar event."
 authors: []
-tags: ["UCSD Extension News"]
+tags: ["UCSD Extension"]
 categories: []
 date: 2020-03-14T22:57:40-07:00
 

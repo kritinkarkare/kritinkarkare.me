@@ -4,7 +4,7 @@
 title: "UCSD Extension Feature Story"
 summary: "I cover both SARS and Covid-19 in my feature story assignment."
 authors: []
-tags: ["UCSD Extension Feature"]
+tags: ["UCSD Extension"]
 categories: []
 date: 2020-03-14T22:57:22-07:00
 
