@@ -21,7 +21,7 @@
 [[main]]
   name = "Writing"  # Title of the link.
   url = "writing/"  # Widget Page folder name.
-  weight = 98  # Position of the link in the navigation bar.
+  weight = 70  # Position of the link in the navigation bar.
   identifier = "something"
 
 [[main]]
@@ -51,6 +51,21 @@
   name = "About"  # Title of the link.
   url = "about/"  # Widget Page folder name.
   weight = 56  # Position of the link in the navigation bar.
+
+[[main]]
+  name = "Services"  # Title of the link.
+  url = "services/"  # Widget Page folder name.
+  weight = 72  # Position of the link in the navigation bar.
+
+[[main]]
+  name = "CV"  # Title of the link.
+  url = "cv/"  # Widget Page folder name.
+  weight = 71  # Position of the link in the navigation bar.
+
+[[main]]
+  name = "Current Reading List"  # Title of the link.
+  url = "readinglist/"  # Widget Page folder name.
+  weight = 73  # Position of the link in the navigation bar.
   
 
 # Link to a PDF of your resume/CV from the menu.
