@@ -14,4 +14,7 @@ header:
   image: ""
 ---
 
-Add your *content* here...
+What kind of content are you looking for? 
+I can do several things, like: 
+ - Copyediting
+ - Fact-checking
