@@ -61,7 +61,7 @@ user_groups:
 - Visitors
 ---
 
-Kritin is currently a staff research associate specializing in bioinformatics at the University of California, San Diego Biology Instructional Labs, helping set up undergrad lab classes with materials/solutions and operating the Illumina MiSeq DNA Sequencing machine. I graduated from UC San Diego in June 2019 with a Bachelors of Science in Bioengineering: Bioinformatics and two minors in Cognitive Science and Japanese Studies.
+I'm currently a staff research associate specializing in bioinformatics at the University of California, San Diego Biology Instructional Labs, helping set up undergrad lab classes with materials/solutions and operating the Illumina MiSeq DNA Sequencing machine. I graduated from UC San Diego in June 2019 with a Bachelors of Science in Bioengineering: Bioinformatics and two minors in Cognitive Science and Japanese Studies.
 
 I'm also half Thai and half Indian, so my culture is also extremely important to me. I care a lot about representation for Southeast Asian countries, particularly Thai culture because it gets overshadowed.  
 
@@ -76,4 +76,4 @@ Other things I've do/done:
  - like hot chocolate, Capri-Sun, Hi-C Fruit Punch, and Nerds. 
  
 On my free days, you can find me photosynthesizing under the sun like the good plant I am. I want to become healthy and strong!
-In the future, I'm interested in pursuing a Ph.D and then becoming a teaching professor. When I retire, I want to open up an astrobiology-themed cat cafe, with lots of plants. It'll be cool. 
+In the future, I'm interested in pursuing a Ph.D and then becoming a teaching professor. Becoming an astronaut is a dream of mine too. To the stars!
