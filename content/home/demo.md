@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 8 # Order that this section will appear.
+weight = 4 # Order that this section will appear.
 
 title = "Call me Kritin"
 subtitle = ""
@@ -51,4 +51,3 @@ subtitle = ""
  css_class = ""
 +++
 
-Hey, my name is Kritin, and I **love** writing. I'm also a scientist and I want **you** to tell me what kind of science you like. 
