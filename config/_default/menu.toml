@@ -4,9 +4,10 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
-  url = "#about"
-  weight = 10
+  name = "About"  # Title of the link.
+  url = "about/"  # Widget Page folder name.
+  weight = 56  # Position of the link in the navigation bar.
+  identifier = "about"
 
 [[main]]
   name = "Blog"
@@ -17,40 +18,37 @@
   name = "Contact"
   url = "contact/"
   weight = 60
+  parent = "about"
 
 [[main]]
   name = "Writing"  # Title of the link.
   url = "writing/"  # Widget Page folder name.
   weight = 70  # Position of the link in the navigation bar.
-  identifier = "something"
+  identifier = "written content"
 
 [[main]]
   name = "Data"  # Title of the link.
   url = "data/"  # Widget Page folder name.
   weight = 2  # Position of the link in the navigation bar.
-  parent = "something"
+  parent = "written content"
 
 [[main]]
   name = "Projects"  # Title of the link.
   url = "projects/"  # Widget Page folder name.
   weight = 69  # Position of the link in the navigation bar.
+  parent = "written content"
 
 [[main]]
   name = "Science"  # Title of the link.
   url = "science/"  # Widget Page folder name.
   weight = 7  # Position of the link in the navigation bar.
-  parent = "something"
+  parent = "written content"
 
 [[main]]
   name = "Class"  # Title of the link.
   url = "class/"  # Widget Page folder name.
   weight = 12  # Position of the link in the navigation bar.
-  parent = "something"
-
-[[main]]
-  name = "About"  # Title of the link.
-  url = "about/"  # Widget Page folder name.
-  weight = 56  # Position of the link in the navigation bar.
+  parent = "written content"
 
 [[main]]
   name = "Services"  # Title of the link.
@@ -61,6 +59,7 @@
   name = "CV"  # Title of the link.
   url = "cv/"  # Widget Page folder name.
   weight = 71  # Position of the link in the navigation bar.
+  parent = "about"
 
 [[main]]
   name = "Current Reading List"  # Title of the link.
