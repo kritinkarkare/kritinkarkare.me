@@ -27,8 +27,8 @@ header:
     > Genetics! 
     
 
-| LGBTQIA | Author |
+| Writing | Author |
 | ------ | ----------- |
-| Felix Ever After | path to data files to supply the data that will be passed into templates. |
+| Felix Ever After | Kacen Callender |
 | On Earth We're Briefly Gorgeous | Ocean Vuong |
-| Fierce Femmes and Notorious Liars: A Dangerous Trans Girl's Confabulous Memoir | Kai Cheng Thom|
+| Super Late Bloomer | Kai Cheng Thom|

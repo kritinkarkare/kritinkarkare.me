@@ -15,14 +15,13 @@ header:
 ---
 
 # Kritin Sukrit Karkare
-<h3><mark style="background-color: lightpink">she/her/hers</mark></h3>
 I work at the UC San Diego Biology Teaching Labs. Here is my curricula vitae. RIght now
 I'm on a temporary assignment in the Omar Akbari Lab while classes are remote. 
 
 ## Education 
 
 
-### **Bioengineering with a Specialization in Bioinformatics, B.S. 
+### **Bioengineering with a Specialization in Bioinformatics**, B.S. 
 #### *University of California, San Diego.* Aug 2015-Jun 2019
 ####  Minor in Cognitive Science
 ####  Minor in Japanese Studies
