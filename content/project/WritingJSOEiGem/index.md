@@ -8,6 +8,7 @@ tags: ["UCSD Engineering", "Synthetic Biology", "Engineering Competition"]
 categories: []
 date: 2020-02-24T22:40:53-08:00
 
+featured: true
 # Optional external URL for project (replaces project detail page).
 external_link: "http://jacobsschool.ucsd.edu/news/news_releases/release.sfe?id=2686"
 

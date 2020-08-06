@@ -41,7 +41,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["150px", "0", "150px", "0"]
+  padding = ["180px", "0", "180px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -50,5 +50,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<h3><mark style="background-color: lightgreen">I'm a scientist, a wizard with words, and occasionally both at the same time.</mark></h3> 
+<h4><mark style="background-color: lightgreen">I'm a scientist, a wizard with words, and occasionally both at the same time.</mark></h4> 
 

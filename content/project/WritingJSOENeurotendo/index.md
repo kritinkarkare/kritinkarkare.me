@@ -8,6 +8,7 @@ tags: ["UCSD Engineering", "UCSD Research", "Mechanical Engineering", "Engineeri
 categories: []
 date: 2020-02-24T22:41:04-08:00
 
+featured: true 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://ucsdnews.ucsd.edu/feature/graduate-students-steerable-brain-catheter-wins-big-at-inventors-competition"
 

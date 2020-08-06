@@ -8,6 +8,7 @@ tags: ["UCSD Engineering", "Structural Engineering"]
 categories: []
 date: 2020-02-24T22:40:26-08:00
 
+featured: true
 # Optional external URL for project (replaces project detail page).
 external_link: "https://ucsdnews.ucsd.edu/feature/sink-or-swimconcrete-canoe-team-aims-to-reach-the-podium-at-national-race"
 
