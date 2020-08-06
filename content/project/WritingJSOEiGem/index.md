@@ -4,7 +4,7 @@
 title: "Undergraduate team wins 2nd place at global synthetic biology competition "
 summary: "I interview SynBio, a undergraduate team that placed second world wide at iGEM, a synthetic biology competition with their cancer diagnostic method."
 authors: []
-tags: ["UCSD Engineering", "Synthetic Biology", "Engineering Competition"]
+tags: ["UCSD Engineering", "Synthetic Biology", "Engineering Competition", "Featured"]
 categories: []
 date: 2020-02-24T22:40:53-08:00
 
