@@ -75,5 +75,4 @@ Other things I've do/done:
  - can say the alphabet backwards in less than two seconds
  - like hot chocolate, Capri-Sun, Hi-C Fruit Punch, and Nerds. 
  
-On my free days, you can find me photosynthesizing under the sun like the good plant I am. I want to become healthy and strong!
 In the future, I'm interested in pursuing a Ph.D and then becoming a teaching professor. Becoming an astronaut is a dream of mine too. To the stars!

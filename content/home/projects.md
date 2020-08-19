@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "Take a look at some of my featured writing!"
 
 [content]
   # Page type to display. E.g. project.
@@ -74,4 +74,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+Take a look at some of my featured writing! The following stories are from when I wrote for the UC San Diego Jacobs School of Engineering. 

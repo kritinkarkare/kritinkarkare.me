@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic"
+title = "What can I do for you?"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "serious_kritin.JPG"
@@ -37,7 +37,7 @@ hero_media = "serious_kritin.JPG"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "#about"
+  url = "about/"
   label = "Learn More About Me"
   icon_pack = "fas"
   icon = "download"
@@ -51,8 +51,7 @@ hero_media = "serious_kritin.JPG"
   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
-
-Build **Anything** with Widgets
+Interested in working with me or have any tips? Feel free to contact me at my email. 
+kritinkarkare@gmail.com
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>

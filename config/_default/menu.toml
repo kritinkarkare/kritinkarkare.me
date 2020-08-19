@@ -5,7 +5,7 @@
 
 [[main]]
   name = "About"  # Title of the link.
-  url = "#about"  # Widget Page folder name.
+  url = "about/"  # Widget Page folder name.
   weight = 56  # Position of the link in the navigation bar.
   identifier = "about"
 
