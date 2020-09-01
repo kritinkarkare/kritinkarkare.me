@@ -173,7 +173,7 @@ Website: bmes.ucsd.edu
 - San Diego Science Writers Association
 - Biomedical Engineering Society
 - NPR SciCommers
-- 
+
 
 
 
