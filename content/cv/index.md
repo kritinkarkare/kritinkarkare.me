@@ -74,7 +74,8 @@ Here's a copy of my CV in PDF form. Here's a copy of my resume in PDF Form.
 **Research Assistant** | Omar Akbari Laboratory | July 2020 - Present
 
 * Temporary Research Assignment
-* 
+* Prepare fly food, wash dishes
+* Carry out PCR, DNA extraction, gel electophoresis for experiments
 
 
 ### San Diego Supercomputer Center
@@ -151,7 +152,7 @@ Website: bmes.ucsd.edu
 - Organized and led a committee of 14 to produce content 
 -  Released two issues.
 
-
+Site: 
   
 # Musical Experience
 
