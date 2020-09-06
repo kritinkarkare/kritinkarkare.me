@@ -37,3 +37,14 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+To Dr. Smart at _Undark_, 
+
+You’re a biology student faced with a difficult situation. The pandemic has forced you to go home, go online, and go about your regular school day as if nothing has changed – except it has – and immensely. Shunned from the lab classroom where all the hands-on science learning happens, there is no way for you to learn what it’s like to get into the nitty-gritty of biology research. Pipetting bacterial culture? That’s a no-no. Extracting DNA from soil? See you next year (or the next). Compared to your peers in computer science, economics, and art, it seems like there’s no way but down for you in the job market. Or is there?
+
+With a virus as tiny as the microbes students study shutting down campuses, professors have had to make hard decisions adapting their lab curriculums. What would have been valuable hands-on experience for students has now evaporated into thin air; instead they are forced to watch lab videos and simulations, which give only a fraction of the learning. How do students respond to the new type of material they’re learning? And how did professors modify the lab experience to match what cannot be done in the classroom anymore? 
+
+I propose a story on speculation about the ongoing education effort by biology professors to bring the lab classroom straight to the students in spite of the pandemic. It’s a timely story that addresses an issue of education that has not been on the top of most people’s minds during the pandemic because education efforts have usually been concentrated at the K-12 level. 
+
+Sincerely, 
+
+Kritin Karkare

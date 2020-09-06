@@ -37,3 +37,11 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+
+The social media promo was modified with help from my class instructor!
+This is meant to be a Twitter tease. 
+
+What can a biology lab professor do when they need to teach students how to experiment on cockroaches in a pandemic? When in-person labs are a no-no, professors get creative to keep students engaged in the scientific process. Learn more in story below. #pandemictimes #biologylabs
+
+
