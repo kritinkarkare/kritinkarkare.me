@@ -52,3 +52,6 @@ subtitle = ""
 +++
 <h4><mark style="background-color: lightgreen">I'm a scientist, a wizard with words, and occasionally both at the same time.</mark></h4> 
 
+Want to see my UCSD Extension class writing? At the top, click "Class" underneath the Writing tab. 
+
+You can also see my other writing underneath Science!

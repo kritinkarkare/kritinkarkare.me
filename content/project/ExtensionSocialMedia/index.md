@@ -42,6 +42,7 @@ slides: ""
 The social media promo was modified with help from my class instructor!
 This is meant to be a Twitter tease. 
 
-What can a biology lab professor do when they need to teach students how to experiment on cockroaches in a pandemic? When in-person labs are a no-no, professors get creative to keep students engaged in the scientific process. Learn more in story below. #pandemictimes #biologylabs
+When in-person biology labs are a no-no in a pandemic, professors get creative to keep students engaged in the scientific process – including mailing cockroaches for students to experiment on. Learn what professors are working on in the story below.  #pandemictimes #biologylabs
+
 
 

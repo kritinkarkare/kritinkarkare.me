@@ -21,12 +21,12 @@ header:
 - [ ] *She Has Her Mother's Laugh* by science journalist Carl Zimmer
 - [ ] *Mahabharata* 
 - [ ] *The World is Flat*, Thomas Friedmann
-- [ ] *Feast for Crows* (i'll prob never finish this tbh)
+- [ ] *Feast for Crows*, George R.R. Martin (i'll prob never finish this tbh)
 - [ ] *Slaughterhouse-Five*, Kurt Vonnegut Jr.  
 
 ## Finished Recently
  - [x] *An Astronaut's Guide to Life on Earth*, Chris Hadfield
-    > It's about Canadian astronaut Chris Hadfield who served as the Internationa Space Station's commander. 
+    > It's about Canadian astronaut Chris Hadfield who served as the International Space Station's commander. 
  - [x] *I contain Multitudes*, Ed Yong 
 
 ## Book Highlights + Categories 
@@ -58,7 +58,6 @@ header:
 | Super Late Bloomer | Julia Kaye |
 | Fierce Femmes and Notorious Liars | Kai Cheng Thom | 
 
-{{< figure src="avatar.JPG" title="I should mention, but I'm trans and proud :D" >}}
 
 
 #### Videogames
